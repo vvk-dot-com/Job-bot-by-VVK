@@ -1,0 +1,86 @@
+--- PAGE 1 ---
+VAMSHIKRISHNA VANGA
+AZURE DATA ENGINEER | AZURE DATA FACTORY | SYNAPSE | ADLS GEN2 | AZURE SQL | ETL/ELT
++91 9618247172 | vamshikrishna2190@gmail.com | Hyderabad, Telangana, India
+linkedin.com/in/vamshikrishna-vanga-b35852218
+PROFESSIONAL SUMMARY
+Azure Data Engineer with 4 years 10 months of overall IT experience, including 3 years 4 months of Azure Data Engineering
+experience. Develops and supports Azure Data Factory pipelines integrating enterprise data across 50+ source tables with Azure
+Synapse Analytics, ADLS Gen2 and Azure SQL Database. Experienced in metadata-driven and parameterized pipeline design, ADF
+Linked Services, Datasets, Pipelines and Triggers, SQL timestamp-based incremental loading, data transformation, source-to-target
+reconciliation and SQL performance tuning. Uses Azure DevOps CI/CD and Git to deploy pipeline changes across Dev, QA and Prod
+environments. Experienced in production monitoring, logging, error handling, retry mechanisms and root-cause analysis. Python
+practice in automation and data processing outside Wipro.
+CORE COMPETENCIES
+Azure Data Factory (ADF) | Data Pipeline Development & Orchestration | Linked Services | Datasets | Pipelines | Triggers | Metadata-Driven
+Architecture | Pipeline Parameterization | ETL/ELT | Data Ingestion | Data Integration | Incremental Loading | SQL Timestamp Comparison |
+Azure Synapse Analytics | ADLS Gen2 | Azure SQL Database | SQL Development | Stored Procedures | Views | CTEs | Window Functions |
+Source-to-Target Reconciliation | Data Validation | SQL Query Optimization | Azure DevOps CI/CD | Git | Multi-Environment Deployments |
+Monitoring & Logging | Error Handling | Retry Mechanisms | RCA | Production Support
+TECHNICAL SKILLS
+Azure Data Services: Azure Data Factory (ADF), Azure Synapse Analytics, Azure SQL Database, Azure Data Lake Storage Gen2 (ADLS
+Gen2), Azure Storage, Azure Key Vault (project experience)
+ADF Components: Linked Services, Datasets, Pipelines, Triggers; ADF Copy Activity and ADF Data Flow (bootcamp project)
+Data Engineering: ETL/ELT, data ingestion, data integration, data transformation, data pipeline orchestration, metadata-driven pipelines,
+parameterization, SQL timestamp-based incremental loading, source-to-target reconciliation, data validation
+SQL & Databases: SQL, Azure SQL, SQL Server, PostgreSQL, Stored Procedures, Views, Common Table Expressions (CTEs), Window
+Functions, query optimization, performance tuning
+Programming & APIs: Python (automation/data-processing practice outside Wipro), Golang, JavaScript, TypeScript, REST APIs, GraphQL
+DevOps & Operations: Azure DevOps CI/CD, Git, deployments across Dev/QA/Prod, monitoring, logging, error handling, retry mechanisms,
+root-cause analysis, production support, Grafana
+Project Technologies: Medallion Architecture (Bronze/Silver/Gold), Delta Lake, Parquet, SCD Type 1, Power BI (bootcamp project)
+PROFESSIONAL EXPERIENCE
+Azure Data Engineer | Wipro Technologies, Hyderabad | Jul 2023 – Present
+• Develop and support Azure Data Factory pipelines that ingest and transform enterprise data from relational sources into ADLS Gen2,
+Azure SQL Database and Azure Synapse Analytics, covering 50+ source tables.
+• Configure ADF Linked Services, Datasets, Pipelines and Triggers to establish source connectivity, define reusable datasets and
+orchestrate pipeline execution.
+• Design reusable, parameterized and metadata-driven pipeline patterns to process multiple source tables through shared
+configurations and simplify dataset onboarding.
+• Implement incremental data loading using SQL-based timestamp comparison to identify changed records and avoid unnecessary full
+data reloads.
+• Develop SQL extraction and transformation logic using Stored Procedures, Views, CTEs and Window Functions; perform
+source-to-target reconciliation to validate data completeness and accuracy.
+• Optimize SQL queries and investigate pipeline execution bottlenecks to support efficient data processing.
+• Configure pipeline monitoring, logging, error handling and retry mechanisms; troubleshoot production failures and perform root-cause
+analysis.
+• Use Azure DevOps CI/CD and Git to manage source control and deploy ADF changes across Development, QA and Production
+environments.
+• Collaborate with application, QA, DevOps and business teams to translate data requirements into maintainable Azure data integration
+workflows.
+UI Developer – Frontend (React.js) | Wipro Technologies, Hyderabad | Jan 2022 – Jun 2023
+• Developed enterprise application features using React.js and TypeScript, building reusable UI components and integrating REST and
+GraphQL APIs with Golang and PostgreSQL services.
+• Worked with PostgreSQL queries and API integrations to support application data retrieval and business workflows.
+• Supported source control, CI/CD activities, production troubleshooting and application monitoring using Git, Azure DevOps and
+Grafana.
+
+--- PAGE 2 ---
+KEY ACHIEVEMENTS
+• Supported Azure Data Factory ingestion and transformation workflows spanning 50+ source tables.
+• Designed reusable, parameterized and metadata-driven pipeline patterns to support ingestion across multiple source tables.
+• Implemented SQL timestamp-based incremental loading to identify and process changed records.
+• Developed SQL transformation and reconciliation logic using Stored Procedures, Views, CTEs and Window Functions.
+• Supported Azure DevOps CI/CD deployments of ADF changes across Dev, QA and Prod environments.
+• Supported production pipeline reliability through monitoring, logging, error handling, retry mechanisms and root-cause analysis.
+SELECTED DATA ENGINEERING PROJECTS
+Azure Data Integration & Migration Framework
+Azure Data Factory, Azure SQL Database, ADLS Gen2, Azure Synapse Analytics, SQL
+• Developed reusable ADF pipeline patterns to ingest relational-source data into cloud storage and analytical platforms.
+• Applied dynamic parameters and metadata-driven execution to process multiple source tables through shared pipeline configurations.
+• Implemented SQL transformations, timestamp-based incremental loading and source-to-target validation.
+• Configured monitoring and failure-handling mechanisms to identify pipeline errors and support troubleshooting.
+Customer Account Analysis — Bootcamp Project
+Azure Data Factory, ADLS Gen2, Azure Key Vault, ADF Data Flow, Delta/Parquet, Azure SQL Database, Power BI
+• Designed an end-to-end learning project using Medallion Architecture (Bronze, Silver and Gold) to prepare customer account data for
+analytics.
+• Ingested account, customer, loan, loan-payment and transaction data into the Bronze layer in ADLS Gen2 using ADF Copy Activity.
+• Used ADF Data Flow for cleansing, including duplicate checks, primary-key null checks, schema-change handling, error-value
+handling and data-type conversions.
+• Processed curated Silver-layer data in Delta format and loaded Gold-layer data into Azure SQL Database using SCD Type 1 upsert
+logic.
+• Used Azure Key Vault for credentials and connected Power BI to Azure SQL Database for reporting.
+CERTIFICATIONS & EDUCATION
+• Microsoft Certified: Azure Fundamentals (AZ-900)
+• JavaScript Certification – Udemy
+• B.Tech, Electrical & Electronics Engineering | Vaageswari College of Engineering, Telangana | 2021

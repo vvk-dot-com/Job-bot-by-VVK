@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+streamlit
+openai
+python-dotenv
+pydantic
+pydantic-settings
+sqlalchemy
+apscheduler
+python-docx
+pymupdf
+playwright
+pandas
+pytest

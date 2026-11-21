@@ -1,0 +1,78 @@
+{
+  "name": "VAMSHIKRISHNA VANGA",
+  "location": "Hyderabad, Telangana, India",
+  "overall_experience": "4 years 10 months",
+  "data_engineering_experience": "3 years 4 months",
+  "professional_summary": "Azure Data Engineer with 4 years 10 months of overall IT experience, including 3 years 4 months of Azure Data Engineering\nexperience. Develops and supports Azure Data Factory pipelines integrating enterprise data across 50+ source tables with Azure\nSynapse Analytics, ADLS Gen2 and Azure SQL Database. Experienced in metadata-driven and parameterized pipeline design, ADF\nLinked Services, Datasets, Pipelines and Triggers, SQL timestamp-based incremental loading, data transformation, source-to-target\nreconciliation and SQL performance tuning. Uses Azure DevOps CI/CD and Git to deploy pipeline changes across Dev, QA and Prod\nenvironments. Experienced in production monitoring, logging, error handling, retry mechanisms and root-cause analysis. Python\npractice in automation and data processing outside Wipro.",
+  "work_experience": [
+    {
+      "title": "Azure Data Engineer",
+      "company": "Wipro Technologies",
+      "location": "Hyderabad",
+      "duration": "Jul 2023 – Present"
+    },
+    {
+      "title": "UI Developer – Frontend (React.js)",
+      "company": "Wipro Technologies",
+      "location": "Hyderabad",
+      "duration": "Jan 2022 – Jun 2023"
+    }
+  ],
+  "skills": [
+    {
+      "name": "ADF Copy Activity",
+      "category": "project",
+      "source": "SELECTED DATA ENGINEERING PROJECTS",
+      "evidence": "account, customer, loan, loan-payment and transaction data into the Bronze layer in ADLS Gen2 using ADF Copy Activity. • Used ADF Data Flow for cleansing, including duplicate checks, primary-key null checks, schema-change handling, error-value handling and data-type conversions. • Processed curat"
+    },
+    {
+      "name": "ADF Data Flow",
+      "category": "project",
+      "source": "SELECTED DATA ENGINEERING PROJECTS",
+      "evidence": "oting. Customer Account Analysis — Bootcamp Project Azure Data Factory, ADLS Gen2, Azure Key Vault, ADF Data Flow, Delta/Parquet, Azure SQL Database, Power BI • Designed an end-to-end learning project using Medallion Architecture (Bronze, Silver and Gold) to prepare customer account data for"
+    },
+    {
+      "name": "Medallion Architecture",
+      "category": "project",
+      "source": "SELECTED DATA ENGINEERING PROJECTS",
+      "evidence": "a Flow, Delta/Parquet, Azure SQL Database, Power BI • Designed an end-to-end learning project using Medallion Architecture (Bronze, Silver and Gold) to prepare customer account data for analytics. • Ingested account, customer, loan, loan-payment and transaction data into the Bronze layer in ADLS Gen2"
+    },
+    {
+      "name": "Delta Lake",
+      "category": "project",
+      "source": "TECHNICAL SKILLS",
+      "evidence": "sis, production support, Grafana Project Technologies: Medallion Architecture (Bronze/Silver/Gold), Delta Lake, Parquet, SCD Type 1, Power BI (bootcamp project)"
+    },
+    {
+      "name": "Parquet",
+      "category": "project",
+      "source": "SELECTED DATA ENGINEERING PROJECTS",
+      "evidence": "nt Analysis — Bootcamp Project Azure Data Factory, ADLS Gen2, Azure Key Vault, ADF Data Flow, Delta/Parquet, Azure SQL Database, Power BI • Designed an end-to-end learning project using Medallion Architecture (Bronze, Silver and Gold) to prepare customer account data for analytics. • In"
+    },
+    {
+      "name": "SCD Type 1",
+      "category": "project",
+      "source": "SELECTED DATA ENGINEERING PROJECTS",
+      "evidence": "curated Silver-layer data in Delta format and loaded Gold-layer data into Azure SQL Database using SCD Type 1 upsert logic. • Used Azure Key Vault for credentials and connected Power BI to Azure SQL Database for reporting."
+    },
+    {
+      "name": "Power BI",
+      "category": "project",
+      "source": "SELECTED DATA ENGINEERING PROJECTS",
+      "evidence": "t Azure Data Factory, ADLS Gen2, Azure Key Vault, ADF Data Flow, Delta/Parquet, Azure SQL Database, Power BI • Designed an end-to-end learning project using Medallion Architecture (Bronze, Silver and Gold) to prepare customer account data for analytics. • Ingested account, customer, loan"
+    },
+    {
+      "name": "Azure Key Vault",
+      "category": "project",
+      "source": "SELECTED DATA ENGINEERING PROJECTS",
+      "evidence": "upport troubleshooting. Customer Account Analysis — Bootcamp Project Azure Data Factory, ADLS Gen2, Azure Key Vault, ADF Data Flow, Delta/Parquet, Azure SQL Database, Power BI • Designed an end-to-end learning project using Medallion Architecture (Bronze, Silver and Gold) to prepare customer ac"
+    },
+    {
+      "name": "Python",
+      "category": "practice",
+      "source": "PROFESSIONAL SUMMARY",
+      "evidence": "ienced in production monitoring, logging, error handling, retry mechanisms and root-cause analysis. Python practice in automation and data processing outside Wipro."
+    }
+  ],
+  "source_resume": "master_resume.pdf"
+}
